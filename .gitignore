@@ -1,0 +1,22 @@
+# Frontend
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/build
+frontend/.env.local
+
+# Backend
+backend/__pycache__
+backend/.venv
+backend/env
+backend/.env
+backend/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode
+.idea
+.gemini
